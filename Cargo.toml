@@ -5,6 +5,7 @@ authors = ["Édouard Urcades <edouard@urcad.es>"]
 edition = "2021"
 description = "Generate a random rgba-formatted color."
 license = "MIT"
+repository = "https://github.com/urcades/rand_rgb"
 readme = "readme.md"
 keywords = ["color", "rgb"]
 categories = ["Web programming", "Development tools"]
